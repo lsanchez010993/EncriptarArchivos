@@ -1,1 +1,1 @@
-# EncriptarArchivos
+Dessarrollado integramente en java, es un programa con interfaz gráfica capaz de encriptar y desencriptar archivos o carpetas mediante una contraseña, generar contraseñas seguras o encriptar archivos combinando dos frases.
